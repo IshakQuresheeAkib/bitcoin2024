@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1066.6667"
+   height="466.66666"
+   viewBox="0 0 1066.6667 466.66666"
+   sodipodi:docname="Pow.re Logo - Alternate - Drew Picklyk (2).ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,350 H 800 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="Pow.re Logo - Alternate - Drew Picklyk (2)"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,466.66667)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(155.4282,174.1006)">
+          <path
+             d="m 0,0 c -9.55,0 -16.816,7.266 -16.816,17.024 0,9.755 7.266,17.021 16.816,17.021 9.55,0 16.816,-7.266 16.816,-17.021 C 16.816,7.266 9.55,0 0,0 m 9.341,68.713 c -11.625,0 -20.759,-4.566 -27.403,-12.661 v 11.625 l -37.366,-3.53 V -75.358 h 42.142 v 48.577 c 6.02,-5.19 13.7,-7.886 22.627,-7.886 25.326,0 46.294,22.627 46.294,51.691 0,29.061 -20.759,51.689 -46.294,51.689"
+             style="fill:#0c1014;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(270.8516,243.229)">
+          <path
+             d="m 0,0 c -31.346,0 -55.428,-22.625 -55.428,-52.312 0,-29.48 24.082,-51.898 55.428,-51.898 31.348,0 55.429,22.418 55.429,51.898 C 55.429,-22.625 31.348,0 0,0"
+             style="fill:#0c1014;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+        <g
+           id="g26"
+           transform="translate(442.9521,239.9087)">
+          <path
+             d="M 0,0 -9.55,-44.217 -24.497,0 H -52.316 L -67.262,-44.217 -76.812,0 h -42.35 l 27.82,-97.571 h 38.611 l 14.324,43.18 14.325,-43.18 H 14.53 L 42.351,0 Z"
+             style="fill:#0c1014;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path28" />
+        </g>
+        <g
+           id="g30"
+           transform="translate(496.0508,178.2114)">
+          <path
+             d="m 0,0 c -10.575,0 -18.94,-7.892 -18.94,-17.993 0,-10.101 8.365,-17.994 18.94,-17.994 10.574,0 18.939,7.893 18.939,17.994 C 18.939,-7.892 10.574,0 0,0"
+             style="fill:#0c1014;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34"
+           transform="translate(562.918,226)">
+          <path
+             d="M 0,0 V 15.57 L -39.65,11.833 V -83.662 H 2.492 v 39.236 c 0,17.647 9.756,24.497 25.948,24.497 V 16.192 C 13.908,16.192 4.982,10.794 0,0"
+             style="fill:#0c1014;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+        <g
+           id="g38"
+           transform="translate(648.9287,213.5439)">
+          <path
+             d="M 0,0 C 5.812,0 10.795,-2.699 14.118,-7.058 L -19.1,-17.852 C -17.438,-7.266 -10.379,0 0,0 m 2.285,-44.841 c -6.022,0 -10.796,1.659 -14.324,4.565 l 63.11,20.348 c -2.285,31.761 -24.499,49.613 -51.485,49.613 -31.14,0 -53.56,-23.043 -53.56,-52.312 0,-29.48 24.08,-51.899 55.844,-51.899 17.229,0 34.045,6.435 45.256,14.324 L 36.537,-31.555 C 22.42,-41.519 11.002,-44.841 2.285,-44.841"
+             style="fill:#0c1014;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path40" />
+        </g>
+        <g
+           id="g42"
+           transform="translate(278.125,249.8589)">
+          <path
+             d="m 0,0 -37.884,-67.347 c -1.024,-1.823 0.291,-4.074 2.384,-4.074 h 17.751 c 1.513,0 2.735,-1.225 2.735,-2.734 v -39.953 c 0,-2.794 3.696,-3.787 5.099,-1.372 l 37.809,65.113 c 1.057,1.825 -0.257,4.108 -2.365,4.108 H 7.85 c -1.511,0 -2.734,1.223 -2.734,2.734 V -1.341 C 5.116,1.474 1.379,2.454 0,0"
+             style="fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path44" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
